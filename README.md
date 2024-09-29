@@ -1,4 +1,4 @@
-# DBMNet
+# Reduced-Reference Image Deblurring Quality Assessment Based on Multiscale Feature Enhancement and Aggregation
 
 [1] Bo Hu, Shuaijian Wang, Xinbo Gao, Leida Li, Ji Gan, and Xixi Nie, "Reduced-Reference Image Deblurring Quality Assessment Based on Multiscale Feature Enhancement and Aggregation," Neurocomputing, vol. 549, 2023, p. 126501.
 
