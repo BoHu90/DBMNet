@@ -1,6 +1,8 @@
 # DBMNet
 
-This paper is available on [website](https://linkinghub.elsevier.com/retrieve/pii/S0925231223005015).
+[1] Bo Hu, Shuaijian Wang, Xinbo Gao, Leida Li, Ji Gan, and Xixi Nie, "Reduced-Reference Image Deblurring Quality Assessment Based on Multiscale Feature Enhancement and Aggregation," Neurocomputing, vol. 549, 2023, p. 126501.
+
+The paper is available on [website](https://www.sciencedirect.com/science/article/pii/S0925231223005015?via%3Dihub).
 
 # Abstract
 
